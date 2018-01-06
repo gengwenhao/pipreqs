@@ -6,10 +6,8 @@
 
 >使用方法:
 
-
 ```python
 pipreqs 项目地址
 ```
 例如:
 ![使用pipreqs](https://s1.ax2x.com/2018/01/06/dVlKu.png)
-![](https://s1.ax2x.com/2018/01/06/dVlKu.png)
