@@ -1,4 +1,4 @@
-#pipreqs检查项目依赖
+pipreqs项目依赖检查工具
 >功能
 
 可以检查项目所需的全部依赖, 并在项目目录下面生成对应的requirements.txt
