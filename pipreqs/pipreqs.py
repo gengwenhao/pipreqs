@@ -63,7 +63,7 @@ else:
 
 
 @contextmanager
-def _open(filename=None, mode='r', encoding='utf-8'):
+def _open(filename=None, mode='rb', encoding='utf-8'):
     """Open a file or ``sys.stdout`` depending on the provided filename.
 
     Args:
